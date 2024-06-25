@@ -1,7 +1,7 @@
 - type: entity
   parent: ClothingUniformSkirtBase
-  id: ClothingUniformJumpskirtSchool
-  name: school skirt
+  id: ClothingUniformJumpskirtKronverkSchool
+  name: kinky school skirt
   description: Japanese school skirt. It looks kinda anime.
   components:
   - type: Sprite
