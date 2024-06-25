@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingUniformSkirtBase
+  id: ClothingUniformSkirtLustMaid
+  name: Lusty maid suit
+  description: Just another maid suit made by one really horny person. Nothing else.
+  components:
+  - type: Sprite
+    sprite: Kronverk/Clothing/Uniforms/Jumpskirt/lustmaid.rsi
+  - type: Clothing
+    sprite: Kronverk/Clothing/Uniforms/Jumpskirt/lustmaid.rsi
