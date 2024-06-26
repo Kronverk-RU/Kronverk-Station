@@ -10,8 +10,6 @@
     brokenState: broken
     normalState: normal-unshaded
     denyState: deny-unshaded
-  - type: Advertise
-    pack: KinkMateAds
   - type: Speech
   - type: Sprite
     sprite: Kronverk/Structures/Machines/VendingMachines/kinkmate.rsi
