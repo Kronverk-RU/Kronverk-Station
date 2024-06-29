@@ -22,7 +22,7 @@
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
     clothingVisuals:
       jumpsuit:
-      - state: equipped-INNERCLOTHING
+      - state: equipped-INNERCLOTHING-reptilian
       - state: trinkets-equipped-INNERCLOTHING
 
 # Grey Jumpsuit
@@ -52,7 +52,7 @@
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
     clothingVisuals:
       jumpsuit:
-      - state: equipped-INNERCLOTHING
+      - state: equipped-INNERCLOTHING-reptilian
         color: "#b3b3b3"
       - state: trinkets-equipped-INNERCLOTHING
 
@@ -83,7 +83,7 @@
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
     clothingVisuals:
       jumpsuit:
-      - state: equipped-INNERCLOTHING
+      - state: equipped-INNERCLOTHING-reptilian
         color: "#3f3f3f"
       - state: trinkets-equipped-INNERCLOTHING
 
@@ -114,7 +114,7 @@
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
     clothingVisuals:
       jumpsuit:
-      - state: equipped-INNERCLOTHING
+      - state: equipped-INNERCLOTHING-reptilian
         color: "#52aecc"
       - state: trinkets-equipped-INNERCLOTHING
 
@@ -145,7 +145,7 @@
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
     clothingVisuals:
       jumpsuit:
-      - state: equipped-INNERCLOTHING
+      - state: equipped-INNERCLOTHING-reptilian
         color: "#3285ba"
       - state: trinkets-equipped-INNERCLOTHING
 
@@ -176,7 +176,7 @@
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
     clothingVisuals:
       jumpsuit:
-      - state: equipped-INNERCLOTHING
+      - state: equipped-INNERCLOTHING-reptilian
         color: "#77f3b7"
       - state: trinkets-equipped-INNERCLOTHING
 
@@ -207,7 +207,7 @@
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
     clothingVisuals:
       jumpsuit:
-      - state: equipped-INNERCLOTHING
+      - state: equipped-INNERCLOTHING-reptilian
         color: "#9ed63a"
       - state: trinkets-equipped-INNERCLOTHING
 
@@ -238,7 +238,7 @@
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
     clothingVisuals:
       jumpsuit:
-      - state: equipped-INNERCLOTHING
+      - state: equipped-INNERCLOTHING-reptilian
         color: "#79CC26"
       - state: trinkets-equipped-INNERCLOTHING
 
@@ -269,7 +269,7 @@
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
     clothingVisuals:
       jumpsuit:
-      - state: equipped-INNERCLOTHING
+      - state: equipped-INNERCLOTHING-reptilian
         color: "#ff8c19"
       - state: trinkets-equipped-INNERCLOTHING
 
@@ -300,7 +300,7 @@
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
     clothingVisuals:
       jumpsuit:
-      - state: equipped-INNERCLOTHING
+      - state: equipped-INNERCLOTHING-reptilian
         color: "#ffa69b"
       - state: trinkets-equipped-INNERCLOTHING
 
@@ -331,7 +331,7 @@
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
     clothingVisuals:
       jumpsuit:
-      - state: equipped-INNERCLOTHING
+      - state: equipped-INNERCLOTHING-reptilian
         color: "#eb0c07"
       - state: trinkets-equipped-INNERCLOTHING
 
@@ -362,7 +362,7 @@
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
     clothingVisuals:
       jumpsuit:
-      - state: equipped-INNERCLOTHING
+      - state: equipped-INNERCLOTHING-reptilian
         color: "#ffe14d"
       - state: trinkets-equipped-INNERCLOTHING
 
@@ -393,7 +393,7 @@
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
     clothingVisuals:
       jumpsuit:
-      - state: equipped-INNERCLOTHING
+      - state: equipped-INNERCLOTHING-reptilian
         color: "#9f70cc"
       - state: trinkets-equipped-INNERCLOTHING
 
@@ -424,7 +424,7 @@
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
     clothingVisuals:
       jumpsuit:
-      - state: equipped-INNERCLOTHING
+      - state: equipped-INNERCLOTHING-reptilian
         color: "#c59431"
       - state: trinkets-equipped-INNERCLOTHING
 
@@ -455,7 +455,7 @@
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
     clothingVisuals:
       jumpsuit:
-      - state: equipped-INNERCLOTHING
+      - state: equipped-INNERCLOTHING-reptilian
         color: "#a17229"
       - state: trinkets-equipped-INNERCLOTHING
 
@@ -486,7 +486,7 @@
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
     clothingVisuals:
       jumpsuit:
-      - state: equipped-INNERCLOTHING
+      - state: equipped-INNERCLOTHING-reptilian
         color: "#cc295f"
       - state: trinkets-equipped-INNERCLOTHING
 

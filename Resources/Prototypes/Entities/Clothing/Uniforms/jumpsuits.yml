@@ -488,7 +488,7 @@
     sprite: Clothing/Uniforms/Jumpsuit/color.rsi
     clothingVisuals:
       jumpsuit:
-      - state: equipped-INNERCLOTHING
+      - state: equipped-INNERCLOTHING-reptilian
         color: "#ff8300"
       - state: prisoner-equipped-INNERCLOTHING
   - type: SuitSensor
